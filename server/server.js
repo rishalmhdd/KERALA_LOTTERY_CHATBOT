@@ -5,14 +5,20 @@ import chatRoutes from "./routes/chatRoutes.js";
 
 const app = express();
 
-app.use(cors({
-  origin: [
-    "http://localhost:5173",                    // local dev
-    "https://kerala-lottery-chatbot.vercel.app" // deployed frontend
-  ],
-  methods: ["GET", "POST"],
-  credentials: true
-}));
+// ✅ Middleware to parse JSON requests
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+
+app.use(
+  cors({
+    origin: [
+      "http://localhost:5173",
+      "https://kerala-lottery-chatbot.vercel.app",
+    ],
+    methods: ["GET", "POST"],
+    credentials: true,
+  })
+);
 
 connectDB();
 
@@ -30,4 +36,6 @@ app.get("/api/health", (req, res) => {
 });
 
 const PORT = 5000;
-app.listen(PORT, () => console.log(`🚀 Server running on http://localhost:${PORT}`));
+app.listen(PORT, () =>
+  console.log(`🚀 Server running on http://localhost:${PORT}`)
+);
