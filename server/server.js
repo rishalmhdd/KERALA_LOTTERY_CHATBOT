@@ -4,12 +4,14 @@ import connectDB from "./config/db.js";
 import chatRoutes from "./routes/chatRoutes.js";
 
 const app = express();
-app.use(express.json());
+
 app.use(cors({
-  origin: "http://localhost:5173",
+  origin: [
+    "http://localhost:5173",                    // local dev
+    "https://kerala-lottery-chatbot.vercel.app" // deployed frontend
+  ],
+  methods: ["GET", "POST"],
   credentials: true
-
-
 }));
 
 connectDB();
