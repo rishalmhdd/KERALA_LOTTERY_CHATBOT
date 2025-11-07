@@ -1,0 +1,10 @@
+{
+  "draw": "Nirmal NR-350",
+  "date": "2025-01-28",
+  "prizes": [
+    { "position": "1st Prize", "amount": "₹1 Crore", "number": "NK458210" },
+    { "position": "Consolation Prize", "amount": "₹8,000", "number": "NK458xxx" },
+    { "position": "2nd Prize", "amount": "₹10 Lakh", "number": "NX789123" },
+    { "position": "3rd Prize", "amount": "₹1 Lakh", "number": "NZ112233" }
+  ]
+}

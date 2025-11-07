@@ -1,0 +1,24 @@
+{
+  "faqs": [
+    {
+      "q": "How to claim a winning lottery prize?",
+      "a": "Prize can be claimed by submitting the winning ticket with ID proof at a nationalized bank or Lottery Directorate office."
+    },
+    {
+      "q": "What documents are required?",
+      "a": "You need the original ticket, self attested copies of ID proof, passport size photo, claim form and PAN card."
+    },
+    {
+      "q": "Where to check official results?",
+      "a": "Official results are published on the Kerala Lottery website and in the Gazette."
+    },
+    {
+      "q": "How to verify if ticket is fake?",
+      "a": "You can verify using this chatbot or visit the nearest Authorized Lottery Center."
+    },
+    {
+      "q": "Can I claim prize without PAN?",
+      "a": "PAN card is mandatory if the prize exceeds ₹10,000."
+    }
+  ]
+}

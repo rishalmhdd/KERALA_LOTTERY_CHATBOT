@@ -1,0 +1,34 @@
+{
+  "welcome": "Namaskaram! 👋 Welcome to Kerala State Lottery Support.\nHow can I assist you today?",
+  "menu": [
+    { "label": "🧾 Latest Lottery Result", "value": "LATEST_RESULTS" },
+    { "label": "✅ Verify Ticket", "value": "VERIFY" },
+    { "label": "🏦 Prize Claim Info", "value": "CLAIM_INFO" },
+    { "label": "📍 Authorized Agents", "value": "AGENTS" },
+    { "label": "📝 Complaints", "value": "REPORT_FAKE" },
+    { "label": "📞 Contact Support", "value": "CONTACT_SUPPORT" },
+    { "label": "❓ FAQ / Ask", "value": "FAQ" },
+    { "label": "🌐 Language / ഭാഷ", "value": "LANGUAGE" }
+  ],
+
+  "faqBack": [
+    { "label": "🔙 Back to FAQ", "value": "FAQ" },
+    { "label": "🏠 Menu", "value": "MENU" }
+  ],
+
+  "languageMenu": [
+    { "label": "🇬🇧 English", "value": "LANG_EN" },
+    { "label": "🇮🇳 മലയാളം", "value": "LANG_ML" }
+  ],
+
+  "typeQuestion": "📝 Type Question",
+  "faqTitle": "📌 Frequently Asked Questions",
+  "backToMenu": "🔙 Main Menu",
+
+  "textName": "📝 Enter your name:",
+  "textEmail": "📧 Enter your email:",
+  "invalidEmail": "❌ Invalid email. Try again",
+  "textSubject": "✍️ Enter subject:",
+  "textMessage": "📨 Describe the issue:",
+  "submitted": "✅ Complaint submitted successfully!"
+}

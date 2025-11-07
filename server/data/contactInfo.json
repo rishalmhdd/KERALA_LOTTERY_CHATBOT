@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "title": "Directorate of State Lotteries",
+      "address": "Vikas Bhavan P.O., Thiruvananthapuram Kerala – 695033",
+      "phone": ["0471-2305193", "0471-2305230", "0471-2301741"],
+      "fax": "0471-2301740",
+      "email": "cru.dir.lotteries@kerala.gov.in"
+    },
+    {
+      "title": "Directorate of State Lotteries (Annexe)",
+      "address": "3rd Floor KSRTC Building, Thampanoor, Thiruvananthapuram. 695001"
+    },
+    {
+      "title": "Regional Joint Director – Ernakulam",
+      "address": "7th Floor, Revenue Tower, Ernakulam.",
+      "phone": ["0484-2365824"],
+      "email": "rjdsl.lot@kerala.gov.in"
+    },
+    {
+      "title": "Regional Deputy Director – Kozhikode",
+      "address": "3rd Floor, Housing Board Office Complex, Chakkorathukulam, Kozhikode, 673006",
+      "phone": ["0495-2765353"],
+      "fax": "0471-2301740",
+      "email": "iawkkd.lot@kerala.gov.in"
+    },
+    {
+      "title": "CEO – Lottery Agents & Sellers Welfare Fund Board",
+      "address": "3rd Floor KSRTC Building, Thampanoor, Thiruvananthapuram",
+      "phone": ["0471-2325552"],
+      "email": "kslaswfbho@gmail.com"
+    }
+  ]
+}

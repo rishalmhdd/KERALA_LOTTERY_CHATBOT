@@ -1,0 +1,30 @@
+{
+  "welcome": "Namaskaram! 👋 Welcome to Kerala State Lottery Support.",
+
+  "enter_name": "📝 Enter your full name:",
+  "enter_email": "📧 Enter your email:",
+  "invalid_email": "❌ Invalid email format. Try again.",
+  "enter_subject": "✍️ Enter subject:",
+  "enter_issue": "📨 Describe the issue:",
+  "complaint_submitted": "✅ Complaint Submitted!\n🆔 Reference: {{id}}",
+
+  "enter_ticket": "🎫 Enter ticket number:",
+  "fake_ticket": "🚨 Suspicious / Fake Ticket!",
+  "valid_ticket_no_prize": "✅ Ticket valid but NOT a winner",
+  "winner_text": "🎉 Congratulations! You're a winner!",
+
+  "enter_district": "📍 Enter district name:",
+  "no_agents": "❌ No agents found in this district",
+  "agents_heading": "📍 Authorized Agents:",
+
+  "contact_heading": "📞 Official Contact Information:",
+
+  "faq_heading": "📌 Frequently Asked Questions",
+  "type_question": "✍️ Please type your question...",
+  "no_answer_found": "🤔 Sorry, I don't know that.\nTry asking differently or return to menu.",
+
+  "latest_result_heading": "🧾 Latest Result",
+  "full_result_heading": "📄 Full Lottery Result",
+
+  "back_to_menu": "🔙 Main Menu"
+}
