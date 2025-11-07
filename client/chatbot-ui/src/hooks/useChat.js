@@ -9,7 +9,7 @@ function formatTime() {
 export default function useChat() {
   const [sessionId, setSessionId] = useState(null);
   const [messages, setMessages] = useState([]);
-  const [sending, setSending] = useState(false);
+  const [sending, setSending] = useState(false)
 
   useEffect(() => {
     let sid = localStorage.getItem("ksl_session");
